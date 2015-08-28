@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "email": "fkooman@tuxed.net",
+            "name": "Fran\u00e7ois Kooman"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "fkooman\\IndieCert\\OAuth\\": "src/"
+        }
+    },
+    "description": "OAuth for IndieCert",
+    "license": "AGPL-3.0",
+    "name": "fkooman/indiecert-oauth",
+    "require": {
+        "fkooman/ini": "^1.0.0",
+        "fkooman/oauth": "dev-master",
+        "fkooman/rest": "^1.0.0",
+        "fkooman/rest-plugin-authentication-indieauth": "dev-master",
+        "fkooman/tpl-twig": "^1.0.0",
+        "php": ">=5.4"
+    }
+}

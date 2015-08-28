@@ -1,0 +1,6 @@
+[Db]
+dsn = "sqlite:/var/lib/indiecert-oauth/codes_tokens.sqlite.sqlite"
+;dsn = "mysql:host=localhost;dbname=codes_tokens"
+;username = "codes_tokens"
+;password = "s3cr3t"
+;dsn = "pgsql:host=localhost;port=5432;dbname=XYZ;user=ABC;password=DEF"

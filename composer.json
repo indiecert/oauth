@@ -17,7 +17,7 @@
         "fkooman/ini": "^1.0.0",
         "fkooman/oauth": "dev-master",
         "fkooman/rest": "^1.0.0",
-        "fkooman/rest-plugin-authentication-indieauth": "dev-master",
+        "fkooman/rest-plugin-authentication-indieauth": "^1.0.0",
         "fkooman/tpl-twig": "^1.0.0",
         "php": ">=5.4"
     }

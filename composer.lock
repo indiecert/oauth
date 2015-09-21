@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5608524e8786373b6cf7308ac466a740",
+    "hash": "15bf7e4a6d81e0e832edb5d906f83394",
     "packages": [
         {
             "name": "fkooman/http",
@@ -345,16 +345,16 @@
         },
         {
             "name": "fkooman/rest-plugin-authentication-indieauth",
-            "version": "dev-master",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fkooman/php-lib-rest-plugin-authentication-indieauth.git",
-                "reference": "7fa7932506d3ff634714e55232c56d87851cb10b"
+                "reference": "4245db984de87bc62f036c15c9a58699166f8692"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fkooman/php-lib-rest-plugin-authentication-indieauth/zipball/7fa7932506d3ff634714e55232c56d87851cb10b",
-                "reference": "7fa7932506d3ff634714e55232c56d87851cb10b",
+                "url": "https://api.github.com/repos/fkooman/php-lib-rest-plugin-authentication-indieauth/zipball/4245db984de87bc62f036c15c9a58699166f8692",
+                "reference": "4245db984de87bc62f036c15c9a58699166f8692",
                 "shasum": ""
             },
             "require": {
@@ -387,7 +387,7 @@
                 }
             ],
             "description": "IndieAuth plugin for fkooman/rest",
-            "time": "2015-09-13 07:50:17"
+            "time": "2015-09-21 10:09:59"
         },
         {
             "name": "fkooman/tpl",
@@ -775,8 +775,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "fkooman/oauth": 20,
-        "fkooman/rest-plugin-authentication-indieauth": 20
+        "fkooman/oauth": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

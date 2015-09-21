@@ -1,0 +1,10 @@
+{
+    "bar": {
+        "scope": "read write",
+        "secret": "$2y$10$0PROuOcsyKPnrbJp8NgA8eMftCY9bh0QyXeZoaaSSWwQbhSbd.kCG"
+    },
+    "foo": {
+        "scope": "read",
+        "secret": "$2y$10$pSkWUeL9cFX58JvYbNThW.40kMf5UF2JtBOTdFLg3Gttm9o21WKY."
+    }
+}

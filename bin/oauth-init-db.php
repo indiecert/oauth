@@ -4,7 +4,6 @@ require_once dirname(__DIR__).'/vendor/autoload.php';
 
 use fkooman\Ini\IniReader;
 use fkooman\OAuth\Storage\PdoCodeTokenStorage;
-use fkooman\IndieCert\OAuth\PdoResourceServerStorage;
 
 try {
     $config = IniReader::fromFile(dirname(__DIR__).'/config/server.ini');

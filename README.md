@@ -21,12 +21,12 @@ account is called `fkooman` in group `fkooman`.
 
 Now to initialize the database:
 
-    $ sudo -u apache php bin/indiecert-oauth-init-db.php
+    $ sudo -u apache php bin/oauth-init-db.php
 
 # Apache
 Place this in `/etc/httpd/conf.d/indiecert-oauth.conf`:
 
-    Alias /oauth /var/www/indiecert-oauth/web
+    Alias /indiecert-oauth /var/www/indiecert-oauth/web
 
     <Directory /var/www/indiecert-oauth/web>
         AllowOverride None

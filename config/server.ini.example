@@ -1,5 +1,5 @@
 [Db]
-dsn = "sqlite:/var/lib/indiecert-oauth/codes_tokens.sqlite.sqlite"
+dsn = "sqlite:/var/lib/indiecert-oauth/codes_tokens.sqlite"
 ;dsn = "mysql:host=localhost;dbname=codes_tokens"
 ;username = "codes_tokens"
 ;password = "s3cr3t"

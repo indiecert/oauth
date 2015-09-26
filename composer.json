@@ -10,9 +10,9 @@
             "fkooman\\IndieCert\\OAuth\\": "src/"
         }
     },
-    "description": "OAuth for IndieCert",
+    "description": "IndieCert Authorization",
     "license": "AGPL-3.0",
-    "name": "fkooman/indiecert-oauth",
+    "name": "indiecert/oauth",
     "require": {
         "fkooman/ini": "^1.0.0",
         "fkooman/oauth": "^1.0.0",
